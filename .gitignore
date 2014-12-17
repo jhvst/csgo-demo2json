@@ -22,3 +22,12 @@ _testmain.go
 *.exe
 *.test
 *.prof
+
+.vagrant
+demoinfogo
+src/generated_proto/
+protobuf-2.5.0
+*.dem
+*.tar
+*.gz
+*.o
